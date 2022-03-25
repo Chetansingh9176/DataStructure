@@ -1,7 +1,7 @@
 //Write a program to reverse an array or string
 //complexity = O(n)
 
-package Arrrays;
+package Arrays;
 
 public class ReverseArray {
     public static void main(String[] args) {
