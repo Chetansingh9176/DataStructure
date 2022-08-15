@@ -14,7 +14,7 @@ public class ReverseArray {
     public static void revArray(int[] arr, int size) {
         int temp;
         int end = size - 1;
-        for (int i = 0; i < size - 1; i++) {
+        for (int i = 0; i < (size - 1)/2; i++) {
             temp = arr[i];
             arr[i] = arr[end];
             arr[end] = temp;
