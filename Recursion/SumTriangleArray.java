@@ -1,6 +1,4 @@
-package Arrays;
-
-import java.util.Arrays;
+package Recursion;
 
 public class SumTriangleArray {
     public static void main(String[] args) {
